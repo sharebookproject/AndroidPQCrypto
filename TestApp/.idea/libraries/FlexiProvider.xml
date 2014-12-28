@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FlexiProvider">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppTest1/lib/FlexiProvider.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
